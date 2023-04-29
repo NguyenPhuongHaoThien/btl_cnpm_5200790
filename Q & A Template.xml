@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>asus</Author>
+  <LastAuthor>asus</LastAuthor>
+  <Created>2023-04-28T07:32:09Z</Created>
+  <LastSaved>2023-04-28T07:47:03Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9288</WindowHeight>
+  <WindowWidth>22980</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>108</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="16"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="16"
+    ss:Color="#374151"/>
+   <Interior ss:Color="#538ED5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"
+    ss:Color="#374151"/>
+   <Interior ss:Color="#F7F7F8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"
+    ss:Color="#374151"/>
+   <Interior ss:Color="#F7F7F8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"
+    ss:Color="#374151"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"
+    ss:Color="#374151"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"
+    ss:Color="#374151"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"
+    ss:Color="#374151"/>
+   <Interior ss:Color="#F7F7F8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="13"
+    ss:Color="#374151"/>
+   <Interior ss:Color="#F7F7F8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="16"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="27" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:AutoFitWidth="0" ss:Width="43.199999999999996"/>
+   <Column ss:AutoFitWidth="0" ss:Width="418.79999999999995"/>
+   <Column ss:AutoFitWidth="0" ss:Width="492.6"/>
+   <Row ss:Height="20.399999999999999">
+    <Cell ss:MergeAcross="2" ss:StyleID="s73"><Data ss:Type="String">Bảng Nhưng Câu Hỏi Quan Trọng</Data></Cell>
+   </Row>
+   <Row ss:Height="21">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">STT</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Câu hỏi</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Câu trả lời</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Hệ thống có thể dùng để hỗ trợ cho những loại thẻ tín dụng như nào?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Hệ thống sẽ hỗ trợ cho các loại thẻ tín dụng có tính phổ biến rộng rãi như Visa, MasterCard hay JCB hoặc là  thẻ nội địa.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó có thể hỗ trợ người dùng chọn ngôn ngữ tiếng Việt hay là tiếng Anh không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé có hỗ trợ, nó sẽ hỗ trợ cho người dùng cả tiếng Việt và tiếng Anh để cho người dùng có thể lựa chọn phù hợp với bản thân.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó có thể hỗ trợ cho việc giảm giá vé cho học sinh, sinh viên và người cao tuổi hay là người khuyết tật không?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé có hô trợ, nó sẽ hỗ trợ về việc giúp giảm giá cho học sinh, sinh viên hay người cao tuổi hoặc người khuyết tật khi mà người dùng cung cấp chứng minh thích hợp với loại hỗ trợ giảm giá vé.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó có tích hợp một hệ thống bảo mật tốt để mà có thể bảo vệ thông tin từ cơ bản đến nâng cao cho người dùng không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé có, nó sẽ tích hợp với một hệ thống bảo mật tốt nhằm để đảm bảo an toàn về mặt thông tin cho người dùng và luôn đảm báo những thông tin ấy luôn được bảo vệ một cách an toàn.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó có thể giới hạn được thời gian thực hiện giao dịch dành cho mỗi người dùng không?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Tất nhiên là máy bán vé sẽ có, nó sẽ giới hạn cho mỗi giao dịch sẽ có giới hạn  cụ thể thời gian là 5 phút.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé có hỗ trợ chức năng in hóa đơn dành cho người dùng không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Tất nhiên là có, máy bán vé nó sẽ có chức năng hỗ trợ in hóa đơn khi người dùng gửi yêu cầu đến hệ thống.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó hỗ trợ cho việc cung cấp thông tin về thời gian cụ thể để chờ cho từng tuyến đường không?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé có, nó sẽ gửi thông tin về thời gian chờ cho từng tuyến đường bằng cách đó là nó sẽ được hiển thị ở trên màn hình ngay sau khi người dùng chọn tuyến đường mà mình cần theo dõi.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó có hỗ trợ chức năng hoàn lại tiền tự động khi mà giao dịch bị hủy hay là không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Tất nhiên chắc chắn là có, máy bán vé nó sẽ tự động hoàn lại tiền vào ví tiền kỹ thuật số hay là tài khoản thẻ tín dụng của người dùng nếu mà giao dịch bị hủy.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé có hỗ trợ cho chức năng một người mua vé dành cho cho nhiều người cùng một lúc hay không?</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Máy bán sẽ sẽ có phần hỗ trợ này, người dùng sẽ có thể chọn số lượng vé phù hợp và loại vé ở trên màn hình trước khi mà thực hiện giao dịch.</Data></Cell>
+   </Row>
+   <Row ss:Height="16.8">
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:MergeAcross="1" ss:MergeDown="2" ss:StyleID="s81"/>
+   </Row>
+   <Row ss:Height="16.8">
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="20.399999999999999">
+    <Cell ss:MergeAcross="2" ss:StyleID="s84"><Data ss:Type="String">Bảng Những Câu Hỏi Ít Quan Trọng</Data></Cell>
+   </Row>
+   <Row ss:Height="21">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">STT</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Câu hỏi</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Câu trả lời</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó có hỗ trợ cho việc tích hợp màn hình cảm ứng cho người dùng dễ dàng sử dụng không?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé có, nó sẽ hỗ trợ việc tích hợp một màn hình cảm ứng để người dùng có thể thao tác mua vé một cách dễ dàng hơn.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó hỗ trợ dành cho người khuyết tật không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé có, nó sẽ có một thiết kế để  cho người khuyết tật bao gồm cả người khiếm thị dễ dàng sử dụng.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó tích hợp chức năng hỗ trợ mua vé trực tuyến và đổi vé tại máy không?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé có tích hợp chức năng này, từ đây người dùng sẽ có thể mua vé trực tuyến hay là đổi vé tại máy bán vé nếu cần thiết.</Data></Cell>
+   </Row>
+   <Row ss:Height="16.8">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó có thiết lập giới hạn về số lượng vé bán mỗi ngày không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó sẽ không giới hạn số lượng vé mỗi ngày.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé có cần thiết bắt buộc phải có kết nối Internet hay không?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó sẽ bắt buộc cần kết nối với Internet để mà có thể xử lý giao dịch hay cập nhật thông tin tuyến đường một cách liên tục</Data></Cell>
+   </Row>
+   <Row ss:Height="16.8">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó có hỗ trợ cho việc thanh toán bằng tiền mặt hay là không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Không, máy bán vé chỉ hỗ trợ thanh toán bằng thẻ tín dụng, Mã QR và ví điện tử.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó có hỗ trợ cho việc tích hợp hệ thống giám sát video không?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó sẽ hỗ trợ tích hợp, nó sẽ tích hợp một hệ thống giám sát video để mà có thể đảm bảo về mặc an ninh cùng với vận hành một cách trơn tru.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó có hỗ trợ cho việc mua vé theo định kỳ của người dùng (ví dụ như: theo hàng ngày hay hàng tuần hoặc hàng tháng) không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé có hỗ trợ, nó sẽ giúp cho người dùng có thể mà chọn mua vé theo định kỳ như là theo ngày tuần hayy tháng tùy theo nhu cầu của người dùng.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé nó có tích hợp thêm chức năng dùng để tìm kiếm thông tin về tuyến đường không?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Máy bán vé có hỗ tợ, nó sẽ hỗ trợ cho người dùng có thể mà tìm kiếm thông tin tuyến đường hay là thời gian chờ ở trên màn hình của máy bán vé.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé nó có hỗ trợ cho người dùng đổi vé sau khi mua mà chưa sử dụng không?</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Máy bán vé có, nó sẽ hỗ trọ cho người dùng có thể mà đổi lại vé tại máy bán vé ở trong khoảng thời gian quy định và tuân thủ nghiệm ngặt theo các điều kiện đổi vé đã được định sẳn từ trước.</Data></Cell>
+   </Row>
+   <Row ss:Height="33.6">
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Máy bán vé nó có hỗ trợ cho phần hướng dẫn người dùng mới hoặc người dùng chưa biết sử dụng bằng tích hợp giọng nói không?</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Máy bán vé có hỗ trợ, nó sẽ hướng dẫn để người dùng có thể sử dụng bằng giọng nói để mà họ có thể dễ dàng quen thuộc, đặc biệt nhất là dành cho người khiếm thị. </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
